@@ -8,10 +8,6 @@ Aspiring AI Engineer • Machine Learning • NLP
 Passionate about building intelligent software using AI, Machine Learning, and Data Science.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shhubidi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
