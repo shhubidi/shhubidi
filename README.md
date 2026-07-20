@@ -98,7 +98,3 @@ I enjoy designing intelligent applications that combine Machine Learning, Natura
 </p>
 
 ---
-
-## ⚡ Fun Fact
-
-> I enjoy turning real-world problems into AI-powered solutions while continuously learning new technologies.
