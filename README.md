@@ -32,11 +32,6 @@ I enjoy designing intelligent applications that combine Machine Learning, Natura
   - SQL & Backend Architecture
   - Scalable Travel Planning System
 
-- 💻 **Student Record Management System**
-  - C Programming
-  - Searching & Sorting Algorithms
-  - File Handling
-
 ---
 
 ## 🌱 Currently Learning
