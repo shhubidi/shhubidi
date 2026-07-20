@@ -1,17 +1,120 @@
-<h1 align="center">Hi, I'm Shubham Chitrakar</h1>
-<h3 align="center">Passionate ML enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Shubham Chitrakar</h1>
 
-- Some of the projects I've worked on include: **🤖 AI-powered Smart Resume Analyzer using NLP and Machine Learning for resume parsing, skill extraction, and job matching. 🌍 Trip Itinerary Planner designed with a normalized relational database and scalable backend architecture.**
+<h3 align="center">
+Aspiring AI Engineer • Machine Learning • NLP • Software Development
+</h3>
 
-- 🌱 I’m currently learning **Python • Machine Learning • Deep Learning • NLP • Data Structures & Algorithms**
-
-- 📫 How to reach me **chitrakarshubham55@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shubham-chitrakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-chitrakar" height="30" width="40" /></a>
+<p align="center">
+Passionate about building intelligent software using AI, Machine Learning, and Data Science.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
+---
+
+## 👨‍💻 About Me
+
+🎓 Computer Science Engineering student passionate about Artificial Intelligence and Software Development.
+
+I enjoy designing intelligent applications that combine Machine Learning, Natural Language Processing, and clean software engineering practices to solve real-world problems.
+
+### 🚀 Projects
+
+- 🤖 **AI-Powered Smart Resume Analyzer**
+  - Resume Parsing
+  - Skill Extraction
+  - Job Matching using NLP & Machine Learning
+
+- 🌍 **Trip Itinerary Planner**
+  - Relational Database Design
+  - SQL & Backend Architecture
+  - Scalable Travel Planning System
+
+- 💻 **Student Record Management System**
+  - C Programming
+  - Searching & Sorting Algorithms
+  - File Handling
+
+---
+
+## 🌱 Currently Learning
+
+- Python
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Data Structures & Algorithms
+
+---
+
+## 📫 Reach Me
+
+📧 **chitrakarshubham55@gmail.com**
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/shubham-chitrakar" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+</p>
+
+---
+
+## 🛠 Languages & Tools
+
+<p align="left">
+
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/></a>
+
+<a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45"/></a>
+
+<a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/></a>
+
+<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/></a>
+
+<a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/></a>
+
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/></a>
+
+<a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/></a>
+
+<a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45"/></a>
+
+<a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45"/></a>
+
+<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/></a>
+
+<a href="https://www.arduino.cc/"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="45" height="45"/></a>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> I enjoy turning real-world problems into AI-powered solutions while continuously learning new technologies.
