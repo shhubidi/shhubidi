@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Chitrakar</h1>
 
 <h3 align="center">
-Aspiring AI Engineer • Machine Learning • NLP • Software Development
+Aspiring AI Engineer • Machine Learning • NLP 
 </h3>
 
 <p align="center">
