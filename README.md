@@ -56,4 +56,12 @@ I enjoy designing intelligent applications that combine Machine Learning, Natura
 
 ---
 
+### 🧰 Languages and Tools
+
+
+<p align="center">
+
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,linux,pandas,numpy,sql,git" />
+
+</p>
 
