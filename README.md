@@ -16,7 +16,7 @@ Passionate about building intelligent software using AI, Machine Learning, and D
 
 ## 👨‍💻 About Me
 
-🎓 Computer Science Engineering student passionate about Artificial Intelligence and Software Development.
+🎓 Computer Science Engineering student passionate about AIML.
 
 I enjoy designing intelligent applications that combine Machine Learning, Natural Language Processing, and clean software engineering practices to solve real-world problems.
 
