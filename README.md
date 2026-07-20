@@ -61,7 +61,7 @@ I enjoy designing intelligent applications that combine Machine Learning, Natura
 
 <p align="center">
 
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,linux,anaconda,arduino,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,linux,anaconda,arduino,mysql" />
 
 </p>
 
